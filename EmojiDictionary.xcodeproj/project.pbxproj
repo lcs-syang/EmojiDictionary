@@ -13,6 +13,7 @@
 		F7B5B89A237CEAAB00A178B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7B5B899237CEAAB00A178B1 /* Assets.xcassets */; };
 		F7B5B89D237CEAAB00A178B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F7B5B89B237CEAAB00A178B1 /* LaunchScreen.storyboard */; };
 		F7B5B8A5237CEBE200A178B1 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B5B8A4237CEBE200A178B1 /* Emoji.swift */; };
+		F7B5B8A7237CEE6800A178B1 /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7B5B8A6237CEE6800A178B1 /* EmojiTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F7B5B89C237CEAAB00A178B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F7B5B89E237CEAAB00A178B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7B5B8A4237CEBE200A178B1 /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
+		F7B5B8A6237CEE6800A178B1 /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F7B5B89B237CEAAB00A178B1 /* LaunchScreen.storyboard */,
 				F7B5B89E237CEAAB00A178B1 /* Info.plist */,
 				F7B5B8A4237CEBE200A178B1 /* Emoji.swift */,
+				F7B5B8A6237CEE6800A178B1 /* EmojiTableViewController.swift */,
 			);
 			path = EmojiDictionary;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7B5B8A7237CEE6800A178B1 /* EmojiTableViewController.swift in Sources */,
 				F7B5B8A5237CEBE200A178B1 /* Emoji.swift in Sources */,
 				F7B5B891237CEAA800A178B1 /* AppDelegate.swift in Sources */,
 				F7B5B893237CEAA800A178B1 /* SceneDelegate.swift in Sources */,
